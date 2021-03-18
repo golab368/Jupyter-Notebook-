@@ -1,1 +1,1 @@
-# exercise how to use jupyter_
+# exercise how to use jupyter
